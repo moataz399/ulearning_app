@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952701342855",
+    "project_id": "elearning-app-8ae69",
+    "storage_bucket": "elearning-app-8ae69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952701342855:android:77826009c23d919245d422",
+        "android_client_info": {
+          "package_name": "com.weza.ulearning_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952701342855-9cemnlbv49v07b90ed8ca1uv210a42o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Hw41axwtinYzyOE2n0TTTb35PlY-Jzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952701342855-9cemnlbv49v07b90ed8ca1uv210a42o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
